@@ -6,7 +6,7 @@ idea of Backend Developing and am trying to work towards
 Frontend with Vue and React! I'm also a Linux Enthusiast
 and enjoy collaborating and working on FOSS!  
 
-Thanks for checking out this profile. If you wanna take
+Thanks for checking out this profile. If you want to take
 something with you from this profile on the long journey
 through the world wide web, I recommend checking out:
 [some great articles](https://github.com/rshchekotov/rshchekotov/blob/master/articles.md).
